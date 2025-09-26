@@ -1,0 +1,1017 @@
+Laptop_Brand,OS,CPU_Power,Generation,RAM_size,RAM_technology,Capacity(in GB),Storage_Type,GPU_Brand,GPU_Type,Touch_Screen,screen_size_category,Display_quality,warranty_group,Performance per price
+Asus,Windows 11 ,96.0,13th Gen,32.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010352693454992103
+Lenovo,Windows 11 ,32.0,7th Gen,16.0,DDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0017533774073009486
+HP,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010597586105387106
+Infinix,Windows 11 ,128.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0018290940268648186
+HP,Windows 11 ,32.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001852475581003705
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009042334566378956
+Dell,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000800094128721026
+Apple,Mac ,,Apple M4,16.0,RAM,256,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0005005561735261402
+Samsung,Windows 11 ,48.0,13th Gen,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013849705052577585
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014396456256921372
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013176780630132475
+HP,Windows 11 ,160.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0009001125140642581
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011230040357957537
+HP,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011668611435239206
+HP,Windows 11 ,560.0,14th Gen,24.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006015489886457628
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010442712163553464
+Lenovo,Windows 11 ,280.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007764797232908623
+MSI,Windows 11 ,576.0,Intel Core Ultra,64.0,DDR5,6144,SSD,NVIDIA,Dedicated,0,Large,High Resolution,low,0.00015781252516143578
+HP,Windows 11 ,128.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007778563491261743
+Zebronics,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016504126031507878
+Apple,Mac ,,Apple M2,8.0,DDR4,256,SSD,Unknown,Dedicated,0,Small,High Resolution,low,0.0006667200042670081
+Samsung,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011067961165048543
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,512,SSD,Intel,Integrated,0,Small,Standard HD,low,0.0021510755377688842
+Asus,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001375687843921961
+Lenovo,Windows 11 ,,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000705134571456947
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015718776793369534
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015641426703248802
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016672224074691564
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010756746555953955
+HP,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006583881990165847
+Apple,Mac ,,Apple M1,8.0,DDR4,256,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0007891356212149018
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008834805800966828
+Motorola,Windows 11 ,256.0,Intel Core Ultra,32.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0008766514384491912
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010982545597175916
+HP,Windows 11 ,32.0,7th Gen,8.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017747660535656663
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001024163866218595
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0009757401590590123
+Acer,Windows 11 ,8.0,11th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001800600200066689
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012041062062491071
+Gigabyte,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0008228889732877579
+Asus,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0019591496456857023
+HP,Windows 11 ,120.0,Intel Core,16.0,RAM,512,SSD,Unknown,Dedicated,0,Medium,Full HD,low,0.0007512520868113523
+Asus,Windows 11 ,48.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015003750937734434
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009702940737423496
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014651503523337751
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007091553777616147
+Asus,Windows 11 ,48.0,13th Gen,12.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013253313328332084
+Infinix,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.002104173853052777
+Dell,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00098187985361064
+Lenovo,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006298486826945234
+Acer,Windows 11 ,32.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.001918238993710692
+HP,Windows 11 ,72.0,7th Gen,8.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014525884650188122
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0019020781965480803
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009125114063925799
+Dell,Windows 11 ,30.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001238938053097345
+Motorola,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0009078319741498692
+Acer,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001325333140557604
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009475109038953226
+Lenovo,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,high,0.0003448275862068965
+Asus,Windows 11 ,96.0,Intel Core,32.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007878787878787879
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008452535760728218
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009972930616896994
+Samsung,Windows 11 ,,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006923964610847544
+Motorola,Windows 11 ,96.0,Intel Core,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0009334889148191366
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001250028409736585
+HP,Windows 11 ,32.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017364125716270186
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007701358434057118
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008796240510904928
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001127477723222404
+Acer,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0017005668556185395
+HP,Windows 11 ,160.0,13th Gen,24.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005907671533462739
+Asus,Windows 11 ,256.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006667340135367209
+Asus,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0016368596544407397
+HP,Windows 11 ,120.0,13th Gen,24.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008361429534726905
+Acer,Windows 11 ,120.0,Intel Core,32.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009638116021094744
+HP,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008117118422959849
+Acer,Windows 11 ,160.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008359456635318704
+HP,Windows 11 ,160.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0008000888987665296
+HP,Windows 11 ,48.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001435206930744742
+Asus,Windows 11 ,48.0,13th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001333675301359323
+Apple,Mac ,,Apple M4,16.0,RAM,512,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0004159660146915656
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,128,SSD,Intel,Integrated,0,Small,Standard HD,low,0.0024615754082612873
+Acer,Windows 11 ,384.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007601259637311326
+Samsung,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Medium,Standard HD,low,0.0007231881827973535
+Apple,Mac ,,Apple M2,16.0,UNIFIED,256,SSD,Unknown,Dedicated,0,Small,High Resolution,low,0.0005185825410544512
+Lenovo,Windows 11 ,48.0,13th Gen,8.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010955710955710956
+Lenovo,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011578947368421054
+Infinix,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.002000645369474024
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000867774672745992
+Asus,Windows 11 ,128.0,7th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0011226780975709329
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007482993197278912
+HP,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006260434056761269
+Infinix,Windows 11 ,128.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001879357381024553
+HP,Windows 11 ,160.0,13th Gen,24.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006667301647775979
+HP,Windows 11 ,160.0,Intel Core,24.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00047216937878933034
+Asus,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005000312519532471
+HP,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Medium,Full HD,low,0.0007501103103397559
+MSI,Windows 11 ,512.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Full HD,high,0.00044446913717428746
+Acer,Windows 11 ,576.0,Intel Core Ultra,32.0,LPDDR5X,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00037391466919421386
+HP,Windows 11 ,120.0,13th Gen,32.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008577036633843007
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009704179057755517
+ASUS,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0009684076837593268
+Asus,Windows 11 ,48.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014253563390847711
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010557510650120393
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008309412297930201
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007790293715127908
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009842832195586602
+Dell,Windows 11 ,72.0,7th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012095836240986276
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000880117348979864
+HP,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006583881990165847
+Apple,Mac ,,Apple M4,36.0,RAM,1024,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.00018576736210345812
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0011714770797962648
+Acer,Windows 11 ,160.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007556395155017224
+Thomson,Windows 11 ,48.0,12th Gen,8.0,LPDDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.002135231316725979
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001046314817664256
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007728150926241619
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00071007100710071
+Asus,Windows 11 ,280.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011456628477905073
+HP,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,32,eMMC Storage,ARM,Integrated,0,Small,Standard HD,low,
+Samsung,Windows 11 ,120.0,Intel Core,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011046394858405303
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010924757655023849
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011638479723586107
+Acer,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010418837257762034
+Samsung,Windows 11 ,,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007159904534606205
+Samsung,Windows 11 ,48.0,Intel Core,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011907597046915933
+Asus,Windows 11 ,48.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012002667259390976
+Acer,Windows 11 ,80.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008668111351891982
+Dell,Windows 11 ,30.0,13th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011821764170960897
+Lenovo,Windows 11 ,32.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009490436560081764
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008251031378922366
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009017871782259387
+HP,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000693189695337447
+HP,Windows 11 ,128.0,AMD Ryzen,24.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000451009869926139
+MSI,Windows 11 ,576.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005091217649554518
+MSI,Windows 11 ,128.0,AMD Ryzen,16.0,DDR5,1024,SSD,AMD,Dedicated,0,Medium,Full HD,high,0.0005357621216180017
+HP,Windows 11 ,256.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00048698475273928923
+Acer,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014418939975348263
+MSI,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5,1024,SSD,NVIDIA,Dedicated,1,Medium,High Resolution,high,0.00040596069112332293
+HP,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006234306000519526
+HP,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Medium,Full HD,low,0.0007223225447978886
+Asus,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005448651631146976
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009673717002787343
+Acer,Windows 11 ,80.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008982746347581437
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013152804642166344
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0011962616822429907
+Asus,Windows 11 ,576.0,Intel Core Ultra,64.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Large,Full HD,low,0.0002177826173914976
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011752577319587628
+Asus,Windows 11 ,96.0,13th Gen,32.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010879101596771364
+Apple,Mac ,,Apple M4,24.0,RAM,512,SSD,Apple,Integrated,0,Medium,High Resolution,low,0.0003250203137696106
+HP,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010644903752328573
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001480860575579771
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009127104855884337
+Gigabyte,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009474930911962101
+Lenovo,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014357338195077484
+Infinix,Windows 11 ,48.0,12th Gen,8.0,LPDDR4X,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015005001667222407
+HP,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015342465753424657
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0007653061224489796
+HP,Windows 11 ,192.0,13th Gen,16.0,LPDDR5X,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0008118602188492763
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011949851133210459
+Infinix,Windows 11 ,96.0,12th Gen,16.0,LPDDR5X,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009847668872134175
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008277003724651677
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009644579389176638
+Asus,Windows 11 ,,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005983366241847664
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010824967263203841
+Samsung,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008873514814257783
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014562002275312856
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013244763224386665
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0011877474473848718
+Asus,Windows 11 ,72.0,11th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0012655644008981424
+Asus,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015004167824395666
+Dell,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015770762609927562
+Asus,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0009494930932034672
+Asus,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.000992580057276751
+Acer,Windows 11 ,32.0,11th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015250381259531488
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007111190124334715
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007875098438730484
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017782182835820895
+Asus,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.001350337584396099
+Asus,Chrome ,4.0,Intel Celeron,4.0,LPDDR4X,64,eMMC Storage,Intel,Integrated,0,Medium,Standard HD,low,0.0016008004002001002
+Lenovo,Windows 11 ,160.0,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007558330594807756
+MSI,Windows 11 ,384.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006435342203669884
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009673717002787343
+HP,Windows 11 ,160.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0008988479554373971
+Asus,Windows 11 ,160.0,Intel Core,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005909628148013455
+Acer,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000968765136955265
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007821515578920374
+Acer,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010346611484738748
+HP,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000808942491542874
+Alienware,Windows 11 ,160.0,Intel Core,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005454958708993106
+Dell,Windows 11 ,128.0,AMD Ryzen,16.0,LPDDR5X,1024,SSD,AMD,Dedicated,1,Medium,Full HD,low,0.000527972382983044
+Acer,Windows 11 ,128.0,7th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013063890589916308
+HP,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001196785775346213
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009316344704754076
+Lenovo,Chrome ,4.0,Intel Celeron,4.0,LPDDR4X,64,eMMC Storage,Intel,Integrated,0,Small,Standard HD,low,0.002100061766522545
+Asus,Windows 11 ,128.0,AMD Ryzen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00035137034434293746
+Asus,Windows 11 ,384.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00047780432246235903
+Asus,Windows 11 ,,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00047649861756573917
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013769810340348142
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014753688422105527
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009203702720402131
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009203702720402131
+HP,Windows ,120.0,13th Gen,16.0,RAM,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007809847198641766
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010180389355242008
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009514912462805342
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000855196405276127
+HP,Windows 11 ,120.0,13th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0007911628601283774
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008770580089244499
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009525321479599936
+Asus,Windows 11 ,160.0,13th Gen,32.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000955366472607852
+Asus,Windows 11 ,48.0,13th Gen,8.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001500394840747565
+HP,Windows 11 ,384.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0005441576586513714
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009673717002787343
+Motorola,Windows 11 ,160.0,Intel Core,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0008334490901514099
+Motorola,Windows 11 ,160.0,Intel Core,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.000867774672745992
+Lenovo,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,32,eMMC Storage,ARM,Integrated,0,Small,Standard HD,low,
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008520120592476078
+Lenovo,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014757554462403373
+HP,Windows 11 ,,AMD Athlon,8.0,RAM,256,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0013422818791946308
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0016852039096730705
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.000561021221237499
+Samsung,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00039287718761161285
+Apple,Mac ,,Apple M4,16.0,RAM,512,SSD,Apple,Integrated,0,Medium,High Resolution,low,0.0003663272034581288
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0008355488036460311
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010347302191291577
+HP,Windows 11 ,120.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010790620460676488
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000885840834404915
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009840296822068075
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006529465245061575
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009156219185800817
+Asus,Windows 11 ,96.0,5th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000805299389531108
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006231248557581352
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0007347688539646903
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,256,SSD,Intel,Integrated,0,Small,Standard HD,low,0.0023346303501945525
+HP,Windows ,72.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.00169548999660902
+Acer,Windows 11 ,72.0,6th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001007311129163282
+Acer,Windows 11 ,30.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017339113037679226
+Lenovo,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015338345864661653
+Acer,Windows 11 ,32.0,7th Gen,8.0,LPDDR4X,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017247326664367024
+Acer,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016236590316033633
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001079414032382421
+Acer,Windows 11 ,128.0,7th Gen,16.0,LPDDR4X,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001262205286973089
+Acer,Windows 11 ,72.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015718776793369534
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008751215446589804
+Asus,Windows 11 ,128.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006818801709246295
+Acer,Windows 11 ,96.0,12th Gen,12.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012224938875305623
+Thomson,Windows 11 ,4.0,Intel Celeron,4.0,LPDDR4,128,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.002147878156730018
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011067368654049867
+Colorful,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006600066000660007
+Dell,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017277963019096695
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008235972374195522
+Asus,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011001833638939822
+Infinix,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010911074740861974
+Asus,Windows 11 ,128.0,8th Gen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00042857142857142855
+Lenovo,Windows 11 ,128.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008094023727685996
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006445618235239953
+MSI,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010071942446043165
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011011675872194644
+Infinix,Windows 11 ,280.0,13th Gen,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000493366224414961
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000991013689426388
+Acer,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008434751174840342
+MSI,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007334031812553576
+Ultimus,Windows 11 ,4.0,Intel Celeron,4.0,DDR4,128,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.003085904920767306
+MSI,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.001150191698616436
+HP,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Medium,High Resolution,low,0.0005256491450284991
+Ultimus,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.002801867911941294
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010967918837400603
+HP,Windows 11 ,72.0,7th Gen,8.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0012021857923497268
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008908406524466751
+Asus,Windows 11 ,280.0,12th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009001125140642581
+Apple,Mac ,,Apple M3,8.0,RAM,256,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0005232923227201897
+Asus,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010914477274499104
+Infinix,Windows 11 ,280.0,13th Gen,32.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007894767394610661
+‎HP,Windows 11 ,128.0,6th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00105288490463871
+Dell,Windows 11 ,30.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014627696981630988
+Acer,Windows 11 ,384.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00046252890805675357
+HP,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0009607776647451113
+Huawei,Windows 10 ,32.0,10th Gen,8.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0013651403317985146
+Asus,Windows 11 ,280.0,12th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005402385644387964
+Dell,Windows 10 ,32.0,11th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006222222222222223
+HP,Windows 10 ,32.0,8th Gen,8.0,DDR4,512,SSD,Unknown,Integrated,0,Medium,Full HD,high,0.0005495109352676119
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008422160810632978
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009181833087391376
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000855196405276127
+HP,Windows 11 ,,AMD Ryzen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Small,High Resolution,low,0.0005485776980308346
+MSI,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00048002743013886507
+Asus,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Medium,High Resolution,low,0.0007942344462420944
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009316344704754076
+Lenovo,Chrome ,4.0,Intel Celeron,4.0,LPDDR4X,64,eMMC Storage,Intel,Integrated,0,Small,Standard HD,low,0.0024303073624017154
+Asus,Windows 11 ,256.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000819474572186069
+Lenovo,Windows 11 ,4.0,Intel Celeron,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.00143383065297423
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001165071166430416
+Lenovo,Windows 11 ,32.0,7th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009042334566378956
+Asus,Windows 11 ,128.0,5th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0011959121548162643
+Lenovo,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014289060669946123
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006228290813271051
+Asus,Windows 11 ,576.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0004702956916590086
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009852216748768472
+Asus,Windows 11 ,96.0,5th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007442725898360275
+Asus,Windows 11 ,128.0,AMD Ryzen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00036113117395410855
+Asus,Windows 11 ,512.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.000442451057639857
+Asus,Windows 11 ,384.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00047780432246235903
+Asus,Windows 11 ,,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00047649861756573917
+Asus,Windows 11 ,576.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0003956693769294317
+MSI,Windows 11 ,120.0,12th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011202240448089618
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0010352693454992103
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013600205286117527
+MSI,Windows 11 ,,AMD Ryzen,16.0,RAM,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0005875734466808351
+Lenovo,Windows 11 ,32.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009847668872134175
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008206180279523016
+Asus,Windows 11 ,64.0,Intel Core,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015584415584415584
+Asus,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001143090426617677
+HP,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00100040338846309
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009563948776138758
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009673717002787343
+Asus,Windows 11 ,120.0,13th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010302197802197802
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008668111351891982
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007683863885839736
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0012345679012345679
+Lenovo,D,120.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000752212389380531
+Lenovo,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0005641438933255184
+Acer,Windows 11 ,72.0,5th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015737530008002134
+Lenovo,Windows 11 ,72.0,7th Gen,8.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013407107895296872
+Acer,Windows 11 ,80.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009638116021094744
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013984168865435356
+HP,Windows 11 ,120.0,13th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0008155100784736114
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014753688422105527
+Lenovo,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001382393599811759
+Lenovo,Windows 11 ,64.0,Intel Core Ultra,16.0,RAM,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006024654740939846
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008965671821927965
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0005245167889082183
+HP,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007647958583362749
+Lenovo,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.000653081216771942
+MSI,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007500781331388686
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006727884353123011
+HP,Windows 11 ,128.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012043274137579097
+HP,Windows 11 ,48.0,13th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001315068493150685
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Full HD,high,0.0004706189947055363
+Lenovo,Windows 11 ,168.0,Intel Core Ultra,32.0,RAM,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.00035714455783122776
+Lenovo,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0005965435564523204
+HP,Windows 11 ,120.0,13th Gen,32.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000920353982300885
+HP,Windows ,120.0,13th Gen,16.0,RAM,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008394160583941605
+Asus,Windows 11 ,96.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006322565812162317
+Lenovo,Windows 11 ,168.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000892012434112718
+Acer,Windows 11 ,128.0,7th Gen,32.0,RAM,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0010001470804530078
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009704179057755517
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0010771992818671453
+Acer,Windows 11 ,120.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001180236047209442
+Lenovo,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012774162448782839
+Alienware,Windows 11 ,768.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Full HD,low,0.00025116710802915724
+Acer,Windows 11 ,120.0,13th Gen,32.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008533333333333333
+Asus,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014448457904973604
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010557510650120393
+MSI,Windows 11 ,72.0,7th Gen,16.0,RAM,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009001285897985426
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009168194699116519
+HP,Windows 11 ,120.0,13th Gen,12.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010039370078740158
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000855196405276127
+HP,Windows 11 ,48.0,13th Gen,12.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013674347936186377
+Asus,Windows 11 ,288.0,AMD Ryzen,32.0,LPDDR5X,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0002857244901603629
+Asus,Windows 11 ,288.0,AMD Ryzen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Small,High Resolution,low,0.00031001550077503875
+Asus,Windows 11 ,576.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00035770606561790836
+Acer,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011907597046915933
+Asus,Windows 11 ,576.0,Intel Core Ultra,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00025676369631611666
+Acer,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012124038237351364
+Lenovo,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,0,Medium,Full HD,low,0.000558905721429622
+Lenovo,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010001923446816695
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014189346359618515
+HP,Windows 11 ,48.0,Intel Core,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001305918310641845
+HP,Windows 11 ,48.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013962934755013963
+Dell,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007595898214963919
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006544017779972837
+Asus,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014448457904973604
+Lenovo,D,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.001153846153846154
+HP,Windows 11 ,120.0,13th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0007911628601283774
+Asus,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012002667259390976
+Dell,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Small,High Resolution,low,0.0005831191935165052
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007369196757553427
+MSI,Windows 11 ,768.0,14th Gen,64.0,DDR5,4096,SSD,NVIDIA,Dedicated,0,Large,High Resolution,high,0.0002150823743320251
+Lenovo,Windows 11 ,128.0,AMD Ryzen,32.0,LPDDR5X,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0004766615702850976
+Lenovo,Windows 11 ,128.0,AMD Ryzen,24.0,LPDDR5X,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0005317980554688493
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010171215460247499
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008770580089244499
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011752577319587628
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000898680968256269
+ASUS,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0009684076837593268
+Asus,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0007158648278766186
+Asus,Windows 11 ,160.0,13th Gen,32.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008534471262835045
+Asus,Windows 11 ,48.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013574660633484162
+Asus,Windows 11 ,96.0,13th Gen,32.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009539929219879982
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009493134429564333
+Asus,Windows 11 ,48.0,13th Gen,8.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0014253563390847711
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000855196405276127
+HP,Windows 11 ,384.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0005441576586513714
+MSI,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001032424584610421
+Motorola,Windows 11 ,160.0,Intel Core,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0008334490901514099
+Motorola,Windows 11 ,160.0,Intel Core,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.000867774672745992
+Lenovo,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,64,eMMC Storage,ARM,Integrated,0,Small,Standard HD,low,
+Lenovo,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,32,eMMC Storage,ARM,Integrated,0,Small,Standard HD,low,
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010557510650120393
+Lenovo,Windows 11 ,128.0,5th Gen,16.0,DDR4,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.001250260470931444
+MSI,Windows 11 ,400.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0004008987180051985
+HP,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001046314817664256
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009176788124156545
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008667822376316843
+HP,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006087009452256107
+HP,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0005441576586513714
+HP,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006961466810471615
+HP,Windows 11 ,576.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00032001066702223407
+Dell,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Medium,High Resolution,low,0.00027036373353453425
+HP,Windows 11 ,72.0,AMD Ryzen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,1,Medium,Standard HD,low,0.0007465840259191436
+MSI,Windows 11 ,280.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007508978126020241
+MSI,Windows 11 ,120.0,12th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001238390092879257
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008309412297930201
+Lenovo,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015789473684210526
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0005893383337798018
+Asus,Windows 10 ,32.0,8th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Full HD,low,0.0009393591483143722
+MSI,Windows 11 ,72.0,7th Gen,8.0,‎DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013849705052577585
+Dell,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0003729777612009884
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010000158732678297
+Dell,Windows 11 ,120.0,Intel Core,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006102296682569621
+HP,Windows 11 ,,AMD Athlon,8.0,RAM,256,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0013385089010841923
+HP,D,,AMD Athlon,8.0,RAM,256,SSD,AMD,Integrated,0,Medium,Standard HD,low,
+Acer,Windows 11 ,64.0,Intel Core,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016005335111703902
+MSI,Windows 11 ,72.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0013849705052577585
+MSI,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001515610791148833
+MSI,Windows 11 ,72.0,7th Gen,16.0,‎DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014253563390847711
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00047095761381475666
+MSI,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015182481751824818
+MSI,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0013098356751607525
+Acer,Windows 11 ,128.0,7th Gen,16.0,LPDDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006574074074074074
+Dell,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013165634891733663
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0007531794048647981
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001015400236926722
+Asus,Windows 11 ,160.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008438818565400844
+Asus,Windows 11 ,96.0,5th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008715530790112874
+Asus,Windows 11 ,288.0,AMD Ryzen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0003666911127408494
+Lenovo,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016368596544407397
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.00137875101378751
+Asus,Windows 11 ,48.0,13th Gen,,,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014168319637291016
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0016750418760469012
+Lenovo,Windows 11 ,,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005691519635742744
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0006095460207245647
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00048234023328962833
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0005185569301429736
+Samsung,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00043453969830529516
+Samsung,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.000449128690340739
+Samsung,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00041211055552502885
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0005303432078187742
+Samsung,Windows 11 ,64.0,5th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Standard HD,low,0.0005648200446300429
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009842832195586602
+Acer,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00041581135849255225
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000925386946073822
+Lenovo,Windows 11 ,,Qualcomm Snapdragon,32.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0006383657835939994
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007416563658838071
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010537225773017793
+Apple,Mac ,,Apple M4,24.0,RAM,512,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0003703978072449811
+Apple,Mac ,,Apple M4,16.0,RAM,512,SSD,Apple,Integrated,0,Medium,High Resolution,low,0.0003571683691692264
+Apple,Mac ,,Apple M4,16.0,RAM,256,SSD,Apple,Integrated,0,Medium,High Resolution,low,0.0003801967104719398
+Asus,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015384615384615385
+Asus,Windows 11 ,120.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011820868379177085
+Asus,Windows 11 ,160.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000838844974995967
+MSI,Windows 11 ,280.0,13th Gen,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0003309090909090909
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009590646835847706
+Asus,Windows 11 ,160.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008255278615653278
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008114856429463171
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.000869691259602841
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010347302191291577
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0009383397074086185
+Lenovo,Windows 11 ,,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007198167739120951
+Lenovo,Windows 11 ,96.0,12th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009165655748753201
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0008122858230739942
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008966754035039315
+Asus,Windows 11 ,144.0,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,0,Medium,Full HD,low,0.00048186198745340484
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000983767830791933
+Asus,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009237875288683603
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0016672224074691564
+Asus,Windows 11 ,48.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012342504499871431
+Asus,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0013753438359589898
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Small,Full HD,low,0.0009543065103113628
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000779423226812159
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009684076837593268
+Asus,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006500650065006501
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009691629955947136
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000885840834404915
+Asus,Windows 11 ,64.0,5th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006941993175667725
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0003428851334802841
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006529465245061575
+Asus,Windows 11 ,160.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007159904534606205
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009560229445506692
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000927670676909697
+Asus,Windows 11 ,96.0,5th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008001032391276294
+Asus,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006471222668889107
+Asus,Windows 11 ,196.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0007273461965855137
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006529465245061575
+Asus,Windows 11 ,256.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006095266761983596
+Asus,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016284794546487407
+Asus,Windows 11 ,280.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009155937052932761
+Dell,Windows 11 ,72.0,7th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012138188608776844
+HP,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010589792616561258
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015147184909974278
+Asus,Windows 11 ,64.0,5th Gen,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006977555529712757
+Asus,Windows 11 ,96.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010001923446816695
+Acer,Windows 11 ,30.0,13th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001552259399793032
+Asus,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0004714622473033788
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009278350515463917
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,128,SSD,Intel,Integrated,0,Small,Standard HD,low,0.002735156771180787
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011620795107033638
+Dell,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001308519918580983
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011635027556644213
+Lenovo,Windows 10 ,,11th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005163934426229509
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006172133958166647
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0017102291061632784
+Lenovo,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015625
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011463664278403276
+Lenovo,Windows 11 ,4.0,4th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016791711325473383
+MSI,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010146398028699811
+MSI,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010366991499066972
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001170455245487587
+Asus,Windows 11 ,576.0,Intel Core Ultra,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0002305936610273183
+Dell,Windows 11 ,120.0,13th Gen,8.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001065619742007852
+Dell,Windows 11 ,120.0,13th Gen,8.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001065619742007852
+Dell,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008648648648648649
+HP,Windows 11 ,48.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001474392856149331
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009531401635935117
+Lenovo,Windows 11 ,200.0,AMD Ryzen,32.0,LPDDR5X,1024,SSD,AMD,Dedicated,0,Medium,High Resolution,low,0.0004762270527690299
+Acer,Windows 11 ,30.0,13th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014330380406461698
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007726150874557356
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008572541888556955
+MSI,Windows 11 ,160.0,12th Gen,16.0,RAM,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0008334490901514099
+HP,D,32.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014290250873293109
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009082813891362423
+Dell,Ubuntu ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001246738184981154
+Lenovo,Windows 11 ,64.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0004916155970098997
+Dell,Windows 11 ,120.0,13th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0005244496129333835
+HP,Windows 11 ,32.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017843866171003717
+HP,D,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000842977568224032
+Acer,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016368596544407397
+Dell,Ubuntu ,,11th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0007521496093950324
+HP,Windows 11 ,48.0,12th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014554275318374773
+HP,Windows ,72.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017129153819801302
+HP,D,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001486138896827665
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000907715582450832
+Dell,Windows 11 ,120.0,13th Gen,16.0,RAM,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007316023526036437
+HP,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006829763760222756
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X-,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.000598644246852716
+Dell,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001309192200557103
+Acer,Windows 11 ,72.0,6th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010048785231527254
+Acer,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011306805827353773
+Lenovo,Windows 11 ,30.0,13th Gen,8.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001471571906354515
+Asus,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007501041811362689
+Acer,Windows 11 ,,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,,low,0.0007017543859649122
+Acer,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0005617291488582244
+Asus,Windows 11 ,4.0,Intel Celeron,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016470588235294118
+Dell,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00022727859707120536
+Lenovo,Windows 11 ,72.0,7th Gen,8.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0011340182803746797
+Acer,Windows 11 ,30.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017339113037679226
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008649817542911205
+Acer,Windows 11 ,30.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001412180052956752
+Dell,Windows 11 ,96.0,13th Gen,16.0,SLPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007035453165953925
+Apple,Mac ,,Apple M3,16.0,DDR4,256,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0005333638112654057
+Apple,Mac ,,Apple M3,24.0,RAM,512,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.00035716411691172096
+Lenovo,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015022091310751104
+Lenovo,D,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0015362629510539479
+Dell,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000692901032814747
+Apple,Mac ,,Apple M4,48.0,RAM,512,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.0002285795921282903
+Apple,Mac ,,Apple M4,24.0,RAM,512,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.00025001041710071253
+Apple,Mac ,,Apple M4,24.0,RAM,1024,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0002920936680033665
+Apple,Mac ,,Apple M4,36.0,RAM,1024,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.00020323236233426884
+Apple,Mac ,,Apple M4,24.0,RAM,512,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0003001579778830964
+Apple,Mac ,,Apple M4,24.0,RAM,1024,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0002608809078655594
+Acer,Windows 11 ,30.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015432980851671906
+MSI,Windows 11 ,200.0,AMD Ryzen,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00039501975098754936
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008907641819034224
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006966370408656277
+Dell,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001437607820586544
+Dell,Windows 11 ,128.0,8th Gen,16.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0009232189567625788
+Infinix,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0011402280456091218
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Full HD,high,0.0007683702640707804
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0011846689895470383
+Acer,Windows 11 ,30.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0014939915556999026
+Lenovo,Windows 11 ,512.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005379694931933737
+Lenovo,Windows 11 ,512.0,7th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0004069680877462901
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0009255112703388565
+Dell,Windows 11 ,160.0,13th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0007821515578920374
+Lenovo,Windows 11 Pro ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0007195999512135626
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009157266091572661
+Acer,Chrome ,4.0,Intel Celeron,8.0,LPDDR4X,128,eMMC Storage,Intel,Integrated,0,Medium,Standard HD,low,
+Acer,Windows 11 ,32.0,7th Gen,8.0,LPDDR4X,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017247326664367024
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0013336889837289945
+HP,Windows 11 ,72.0,7th Gen,8.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014596793491265852
+Dell,Windows 11 ,120.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009809578765147143
+Lenovo,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,0,Medium,Full HD,low,0.0005416666666666666
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009325584538451142
+Gigabyte,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009504950495049505
+Acer,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016236590316033633
+MSI,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000982604265230366
+‎Lenovo,Windows 11 ,4.0,Intel Celeron,8.0,RAM,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015833993083045127
+Acer,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015284552845528454
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009655172413793104
+Lenovo,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0017325227963525835
+Lenovo,Windows 11 ,160.0,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008625107813847674
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010575615651911164
+Lenovo,Windows 11 ,,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000561021221237499
+Acer,Windows 11 ,384.0,14th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007209805335255948
+Acer,Windows 11 ,128.0,7th Gen,16.0,LPDDR4X,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012002667259390976
+Acer,Windows 11 ,128.0,7th Gen,16.0,LPDDR4X,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001262205286973089
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014868883482022169
+Asus,Windows 11 ,280.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009428706124373205
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007308629311450186
+Lenovo,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014657980456026058
+Acer,Windows 11 ,72.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015718776793369534
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001100018333638894
+Lenovo,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0008415660446395902
+Lenovo,Windows 11 ,96.0,12th Gen,8.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011615401161540115
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008751215446589804
+HP,Windows 11 ,120.0,12th Gen,8.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010709017801216383
+Chuwi,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001262205286973089
+Chuwi,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001262205286973089
+Samsung,Windows 11 ,64.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00048633468045756556
+Asus,Windows 11 ,128.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006818801709246295
+MSI,Windows 11 ,512.0,7th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Full HD,high,0.00032070071381771787
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010461538461538462
+Acer,Windows 11 ,128.0,7th Gen,16.0,RAM,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0007058906575371475
+Acer,Windows 11 ,96.0,12th Gen,12.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011460720983538237
+HP,Windows 11 ,48.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012276487856952229
+Asus,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,0,Medium,High Resolution,low,0.0006667592721211279
+Acer,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0016567677399187246
+Asus,Windows 11 ,288.0,AMD Ryzen,24.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Medium,High Resolution,low,0.0005130880946169232
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005097103038905735
+Asus,Windows 11 ,200.0,AMD Ryzen,24.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Small,High Resolution,low,0.0004437777361085068
+Asus,Windows 11 ,288.0,AMD Ryzen,32.0,LPDDR5X,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0003018981848371637
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,1,Large,Full HD,high,0.0003100103336777893
+MSI,Windows 11 ,96.0,13th Gen,8.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Full HD,high,0.0010160342911573266
+Asus,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012753188297074268
+HP,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000341565191626303
+MSI,Windows 11 ,48.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015238095238095239
+HP,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0004250495891187305
+HP,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0004250495891187305
+Lenovo,Windows 11 ,,Qualcomm Snapdragon,32.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.00042085740780369496
+HP,Windows 11 ,48.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001412180052956752
+HP,Windows 11 ,120.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010303238449261602
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007977768618117512
+Apple,Mac ,,Apple M2,16.0,UNIFIED,1024,SSD,Unknown,Dedicated,0,Small,High Resolution,low,0.0002939337085678549
+Asus,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015718776793369534
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008888888888888889
+HP,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001120022400448009
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008796240510904928
+Infinix,Windows 11 ,48.0,12th Gen,8.0,LPDDR4X,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015005001667222407
+Infinix,Windows 11 ,48.0,12th Gen,16.0,LPDDR4X,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015004688965301657
+Infinix,Windows 11 ,120.0,12th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013003250812703175
+Dell,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0006589010471820215
+Acer,Windows 11 ,96.0,13th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011322891111530478
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001127477723222404
+Dell,Windows 11 ,72.0,8th Gen,16.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.001032424584610421
+Acer,Windows 11 ,120.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009809578765147143
+HP,Windows 11 ,72.0,8th Gen,16.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0010508652689028627
+Apple,Mac ,,Apple M3,16.0,RAM,256,SSD,Apple,Integrated,0,Small,High Resolution,low,0.0004947889251500158
+Apple,Mac ,,Apple M3,16.0,RAM,1024,SSD,Apple,Integrated,0,Small,High Resolution,low,0.00030303030303030303
+Acer,Windows 11 ,128.0,7th Gen,16.0,RAM,512,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0011698333930828884
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016181229773462784
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Integrated,0,Medium,Standard HD,low,0.0019368723098995696
+Asus,Windows 11 ,280.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0007927796072691791
+MSI,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013160780872998464
+Lenovo,Windows 11 ,96.0,12th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000944206008583691
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009001500250041673
+Dell,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017106903650439271
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.000892012434112718
+Thomson,Windows 11 ,48.0,12th Gen,8.0,LPDDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0022127733425893787
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006821597872586426
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010785990539145442
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0012212605532841289
+MSI,Windows 11 ,120.0,12th Gen,16.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.001102425335738625
+Dell,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0006405214068996517
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006715245035005
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009517664139377319
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0004044545404177517
+Acer,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001046314817664256
+Thomson,Windows 11 ,4.0,Intel Celeron,4.0,LPDDR4,128,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.002147878156730018
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008442654890245487
+Asus,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011079455523899967
+Asus,Windows 11 ,280.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009325584538451142
+Asus,Windows 11 ,72.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009591592760432594
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008612307264897902
+HP,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016004572735067162
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.000521689642089288
+HP,Windows 11 ,32.0,7th Gen,16.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001372412188881135
+Air,Windows 11 ,120.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0017182758746755384
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0018644838562983175
+Thomson,Windows 11 ,120.0,12th Gen,16.0,LPDDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017400658061250316
+Thomson,Windows 11 ,120.0,12th Gen,16.0,LPDDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001474072124243222
+Dell,Windows 11 ,,Qualcomm Snapdragon,32.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0004111339518862159
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,LPDDR4X,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014354066985645933
+HP,Chrome ,16.0,Intel N200,8.0,LPDDR5,128,Hard Disk,Intel,Integrated,1,Medium,Standard HD,low,0.0008033872543697753
+Lenovo,Windows 11 ,72.0,8th Gen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,1,Medium,Full HD,low,0.0008731929756476181
+Acer,Windows 11 ,4.0,Intel Celeron,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.00141725719049604
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,‎LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0002873728375193977
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,‎LPDDR5X,256,SSD,Qualcomm,Integrated,1,Medium,High Resolution,low,0.0003606636210627555
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,256,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.00036234509747083124
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0004091281025547777
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,32.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.00025322975234988627
+Thomson,Windows 11 ,4.0,Intel Celeron,4.0,LPDDR4,128,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0022954679223072395
+HP,Chrome ,64.0,Intel Core,8.0,LPDDR5,128,Hard Disk,Intel,Integrated,1,Medium,Standard HD,low,0.0007150846183465044
+Infinix,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008126015751968996
+Infinix,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009078319741498692
+Dell,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017277963019096695
+Lenovo,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0016426512968299712
+HP,Windows 11 ,128.0,8th Gen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Small,Full HD,low,0.0007273671905442265
+Colorful,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.000722302478053117
+HP,Chrome ,16.0,Intel N100,4.0,LPDDR5,64,Hard Disk,Intel,Integrated,1,Medium,Standard HD,low,0.0011722116876400621
+HP,Chrome ,16.0,Intel N100,4.0,LPDDR5,128,Hard Disk,Intel,Integrated,1,Medium,Standard HD,low,0.0009989178390077415
+HP,Windows 11 ,72.0,8th Gen,16.0,LPDDR5X,512,SSD,AMD,Dedicated,0,Small,Full HD,low,0.0006211180124223603
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000776782824468659
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005276062195462587
+Lenovo,Windows 11 ,32.0,7th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000974273100928604
+Gigabyte,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006690753378830456
+HP,Windows 11 ,48.0,12th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015168965420376977
+MSI,Windows 11 ,128.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,high,0.0007653842228798857
+HP,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015366772977674688
+Gigabyte,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0008571530613459684
+Lenovo,Windows 11 ,128.0,7th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008434751174840342
+HP,Windows 11 ,64.0,Intel Core,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001305918310641845
+Lenovo,Windows 11 ,96.0,12th Gen,8.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0010816326530612246
+Lenovo,Windows 11 ,120.0,Intel Core,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0007683727847316892
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006629287969527747
+HP,Windows 11 ,128.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008640075748609303
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008549618320610687
+Asus,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011022657685241886
+HP,Windows 11 ,128.0,8th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00074007400740074
+Asus,Windows 11 ,144.0,Qualcomm Snapdragon,16.0,LPDDR5X,1024,SSD,Qualcomm,Integrated,0,Medium,High Resolution,low,0.0006239845534389791
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011632890467152392
+MSI,Windows 11 ,252.0,1st Gen,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0008251031378922366
+Dell,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Large,High Resolution,low,0.00023848884793625842
+MSI,Windows 11 ,160.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.000880117348979864
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006510048117746957
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009366566121606604
+MSI,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006512233696157782
+Dell,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.00035611493243572855
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008743169398907104
+MSI,Windows 11 ,352.0,1st Gen,32.0,LPDDR5,1024,SSD,Intel,Integrated,1,Medium,High Resolution,high,0.0006261414036003131
+Infinix,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010911074740861974
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Large,High Resolution,high,0.00037867991367726697
+MSI,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0013114025338964214
+MSI,Windows 11 ,160.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.000951181983494195
+MSI,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0013245033112582781
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0006631725318215852
+Lenovo,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,Full HD,low,0.0005146533238027162
+HP,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0007077856420626896
+Avita,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0018875606054998334
+Acer,Chrome ,48.0,13th Gen,8.0,RAM,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015338446148716238
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Large,High Resolution,high,0.0003392978320654309
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009092180724576864
+Samsung,Windows 11 ,120.0,Intel Core,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008750136720886264
+Samsung,Windows 11 ,120.0,Intel Core,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000873015873015873
+Lenovo,Windows 11 ,,13th Gen,24.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007092907092907093
+Acer,Windows 11 ,48.0,12th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0017247326664367024
+HP,Windows 11 ,160.0,13th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006737551321191705
+Asus,Windows 11 ,128.0,8th Gen,16.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00042857142857142855
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007696597880646961
+Asus,Windows 11 ,,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0004407446722659863
+Dell,Windows 11 ,,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005769674590353104
+HP,Windows 11 ,192.0,13th Gen,16.0,LPDDR5X,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0008118602188492763
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008293694352969874
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011593633326783257
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001000163961305132
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010847641485448906
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0008726752503576538
+Asus,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015497323189630882
+Lenovo,Windows 11 ,128.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008094023727685996
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009421655312364111
+Asus,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001436265709156194
+HP,Windows 11 ,96.0,12th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.00106702234078026
+Asus,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.000580952380952381
+MSI,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013593229033085406
+Asus,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0005120040960327683
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,256,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0004123168699008685
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0003248614561437034
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Full HD,high,0.0007715020478140775
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0003248614561437034
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Full HD,high,0.0007715020478140775
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,256,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0003947714711816826
+MSI,Windows 11 ,252.0,1st Gen,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0007675311082684033
+Microsoft,Windows 11 ,,Qualcomm Snapdragon,16.0,‎LPDDR5X,512,SSD,Qualcomm,Integrated,1,Small,High Resolution,low,0.0003493389958216316
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,AMD,Integrated,1,Medium,Full HD,low,0.0007918429330730014
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006851813951005081
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0007931946200712725
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000955896410241327
+Lenovo,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014210900286849655
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008165487207403375
+Lenovo,Windows 11 ,768.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00044444444444444447
+MSI,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010001428775539363
+Dell,Windows 11 ,120.0,Intel Core,16.0,DDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.00056005600560056
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006667395343753416
+MSI,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010769396452253112
+MSI,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0012145025897481693
+MSI,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009584664536741214
+MSI,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009842832195586602
+Dell,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Small,High Resolution,low,0.0007778858174746492
+Dell,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Small,High Resolution,low,0.0007778858174746492
+HP,Windows 11 ,96.0,12th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0011638479723586107
+Lenovo,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008572541888556955
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010427350427350426
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008600682593856656
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011050628248680063
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005366227611680257
+HP,Windows 11 ,48.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014722222222222222
+Acer,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0007111190124334715
+Asus,Windows 11 ,,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0005983366241847664
+Acer,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012295081967213116
+HP,Windows 11 ,168.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007273671905442265
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010643776824034335
+HP,Windows 11 ,120.0,Intel Core,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009709959901461889
+HP,Windows 11 ,168.0,Intel Core Ultra,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.000787998181542658
+HP,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007974898679565957
+Asus,Windows 11 ,72.0,11th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010955999293161336
+Dell,Windows 11 ,,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006083575169148052
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010782796222543
+MSI,Windows 11 ,192.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0009473684210526315
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,1,Large,Full HD,high,0.00031526492423471984
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011153085087245908
+Asus,Windows 11 ,280.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011456628477905073
+Lenovo,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00045296782163656686
+Asus,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.00040232197252715676
+Acer,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008434751174840342
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009130495856159573
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005133675578371891
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Full HD,high,0.000431601663245434
+Dell,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0007591276057356308
+MSI,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0005852285354470702
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00047649861756573917
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Full HD,high,0.0005097103038905735
+MSI,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0005097103038905735
+MSI,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007476454024662589
+Acer,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009590354843129195
+Acer,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006098056752581511
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Full HD,low,0.0009130567109668256
+Samsung,Windows 11 ,120.0,13th Gen,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010379316852236272
+HP,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001425465088185552
+Samsung,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009148705225616374
+HP,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,32,eMMC Storage,ARM,Integrated,1,Small,Standard HD,low,0.0014159918580468162
+HP,Chrome ,,MediaTek Kompanio,4.0,LPDDR4X,32,eMMC Storage,ARM,Integrated,0,Small,Standard HD,low,
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014651503523337751
+Lenovo,Windows 11 ,384.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005769674590353104
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013748657357679913
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012013323868290285
+HP,Windows 11 ,120.0,12th Gen,8.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012044503419414107
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,DDR5,512,SSD,Unknown,Dedicated,0,Medium,Standard HD,low,0.0009016530305560194
+MSI,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005648101808822478
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0004809085115012457
+Asus,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0004345127250155183
+Lenovo,Windows 11 ,96.0,12th Gen,12.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009765317372814617
+HP,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008616710263117403
+Lenovo,Windows 11 ,,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007219450047775772
+HP,Windows 11 ,252.0,Intel Core Ultra,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009643890416830375
+Asus,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,2048,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0003947576188220433
+Dell,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.000447156927911052
+Dell,Windows 11 ,160.0,13th Gen,8.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009002672668448446
+Asus,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0004055780876715373
+Acer,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006887884573555357
+Acer,Windows 11 ,768.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.00038666666666666667
+Acer,Windows 11 ,768.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0004734007929463282
+Acer,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007897793263646922
+Acer,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0005571468367631197
+Acer,Windows 11 ,768.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0004761933106744683
+Acer,Windows 11 ,32.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0018627112797516385
+Asus,Windows 11 ,8.0,Intel Pentium,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017863522686673813
+Acer,Windows 11 ,128.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0013933023710584209
+Acer,Windows 11 ,32.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.00180623973727422
+Acer,Windows 11 ,128.0,5th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012555862949563737
+Lenovo,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0012637401940914185
+Lenovo,D,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011466211271041718
+HP,Windows 11 ,120.0,13th Gen,16.0,LPDDR5,1024,SSD,NVIDIA,Dedicated,1,Medium,Standard HD,low,0.0004982309191999422
+HP,Windows 11 ,168.0,Intel Core Ultra,32.0,LPDDR5,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.000616554054054054
+Asus,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,1024,SSD,AMD,Integrated,0,Medium,Full HD,low,0.0016219359182299477
+Samsung,Windows 11 ,120.0,Intel Core,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008238322912835601
+Samsung,Windows 11 ,120.0,Intel Core,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001018707167994073
+Samsung,Windows 11 ,120.0,Intel Core,8.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010001887148518589
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011728395061728395
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0011728395061728395
+HP,Windows 11 ,192.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0006994535519125683
+MSI,Windows 11 ,96.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0008876163206871868
+Samsung,Windows 11 ,,Qualcomm Snapdragon,16.0,LPDDR5X,512,SSD,Qualcomm,Integrated,1,Medium,Standard HD,low,0.0007231881827973535
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0004624433929810116
+MSI,Windows 11 ,280.0,13th Gen,32.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.0008118602188492763
+MSI,Windows 11 ,128.0,8th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007804660497268369
+MSI,Windows 11 ,252.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.000855431993156544
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0006765369153838612
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0008083497777038112
+Apple,Mac ,,Apple M3,16.0,RAM,512,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0003825637546106151
+Apple,Mac ,,Apple M3,8.0,DDR4,256,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0005400324019441166
+MSI,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.001150191698616436
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009574637848188798
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,2048,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00042099285780721466
+MSI,Windows 11 ,72.0,7th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0009565896903882946
+MSI,Windows 11 ,128.0,7th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0007789907268090192
+MSI,Windows 11 ,560.0,14th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00044446689226728623
+HP,Windows 11 ,384.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,High Resolution,low,0.0007594395122472991
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00043956043956043956
+HP,Windows 11 ,384.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,High Resolution,low,0.0007594395122472991
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.00043956043956043956
+MSI,Windows 11 ,160.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,high,0.000936384385790367
+Dell,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011001833638939822
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005586592178770949
+MSI,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005926364915919697
+MSI,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Small,High Resolution,high,0.0007952765393420894
+Samsung,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.000600005000041667
+MSI,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Medium,High Resolution,high,0.0007891770011273958
+Samsung,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0006500065000650006
+MSI,Windows 11 ,280.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009715673667666809
+Lenovo,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0006194347657762292
+Asus,Windows 11 ,8.0,Intel Pentium,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017413856984068174
+Dell,Windows 11 ,160.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008583690987124463
+HP,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0015282022784106697
+Asus,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.000700856602514184
+Dell,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009067875716762235
+Dell,Windows 11 ,30.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014170602945262573
+Acer,Windows 11 ,352.0,Intel Core Ultra,16.0,LPDDR5X,1024,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0006702840727736993
+Acer,Windows 11 ,252.0,Intel Core Ultra,16.0,LPDDR5X,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0008130553458388989
+HP,Windows 11 ,120.0,13th Gen,16.0,LPDDR5X,1024,SSD,Intel,Integrated,0,Medium,High Resolution,low,0.0006250651109490572
+HP,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,1024,SSD,NVIDIA,Dedicated,1,Medium,High Resolution,low,0.0005289993626513702
+Acer,Windows 11 ,48.0,12th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001500394840747565
+Lenovo,Chrome ,,MediaTek Kompanio,8.0,LPDDR4X,128,eMMC Storage,ARM,Integrated,0,Medium,Standard HD,low,0.0012578616352201257
+Lenovo,Chrome ,16.0,Intel Pentium,4.0,LPDDR4X,128,eMMC Storage,Intel,Integrated,0,Medium,Standard HD,low,0.0012328284607256077
+Infinix,Windows 11 ,48.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015432980851671906
+Lenovo,Windows 11 ,48.0,13th Gen,8.0,DDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0014861460957178842
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009532215357458076
+HP,Windows 11 ,96.0,12th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010702341137123746
+HP,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011117849201536284
+HP,D,8.0,3rd Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0017247326664367024
+Acer,Windows 11 ,120.0,12th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001276867418599702
+HP,Windows 11 ,352.0,Intel Core Ultra,32.0,LPDDR5X,2048,SSD,Intel,Integrated,1,Medium,High Resolution,low,0.0004494634530029777
+HP,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0004219431537086166
+HP,Windows 11 ,560.0,14th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.000598530191681188
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008572653236176596
+Ultimus,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.002801867911941294
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016970211218521774
+Lenovo,D,32.0,11th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001262205286973089
+Lenovo,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012781328146707419
+HP,Windows 11 ,128.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001195219123505976
+Lenovo,Windows 11 ,96.0,13th Gen,16.0,LPDDR5,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007362133629670788
+MSI,Windows 11 ,768.0,13th Gen,64.0,DDR5,4096,SSD,NVIDIA,Dedicated,0,Large,Full HD,high,0.0002423654871546292
+Avita,Windows 11 ,48.0,12th Gen,8.0,RAM,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0020274141654546256
+HP,Windows 11 ,96.0,12th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000985521529297526
+Lenovo,Windows 11 ,32.0,5th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0010782608695652173
+Apple,Mac ,,Apple M3,36.0,RAM,512,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.00025417302099219145
+HP,Windows 11 ,32.0,11th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011342155009451795
+Apple,Mac ,,Apple M3,36.0,RAM,1024,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.0002206942212597502
+Apple,Mac ,,Apple M3,18.0,RAM,512,SSD,Unknown,Dedicated,0,Large,High Resolution,low,0.0002947461498784172
+Apple,Mac ,,Apple M3,18.0,RAM,512,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.00028436018957345974
+Apple,Mac ,,Apple M3,8.0,RAM,1024,SSD,Unknown,Dedicated,0,Medium,High Resolution,low,0.0004602177183821577
+Asus,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010153451215540528
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0007813313886863215
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0007944716763352371
+HP,Windows 11 ,160.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0008903524820100012
+Gigabyte,Windows 11 ,192.0,12th Gen,8.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0010014306151645207
+Dell,Windows 11 ,120.0,13th Gen,8.0,LPDDR5,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0007588008458763528
+Microsoft,Windows 11 ,120.0,12th Gen,8.0,LPDDR5,256,SSD,Intel,Integrated,1,Small,Standard HD,low,0.0007572510358622661
+Acer,Windows 11 ,72.0,5th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001500394840747565
+Acer,Windows 11 ,72.0,5th Gen,16.0,DDR4,1024,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001500394840747565
+Acer,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017652827721477606
+Dell,Windows 11 ,120.0,13th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008805917576611482
+Dell,Windows 11 ,,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006140889551715063
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0007701358434057118
+Lenovo,Windows 11 ,48.0,12th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0016163464470875268
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0014496955639315744
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015361445783132531
+Dell,Windows 11 ,48.0,13th Gen,8.0,LPDDR5,256,SSD,Intel,Integrated,1,Medium,Full HD,low,0.001039419494018435
+Lenovo,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010893246187363835
+Dell,Windows 11 ,8.0,11th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014026338346450557
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012720156555772995
+Zebronics,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.00101641010508369
+Asus,Chrome ,4.0,Intel Celeron,4.0,LPDDR4,32,Hard Disk,Intel,Integrated,0,Small,Standard HD,low,0.0017259759378648663
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0008097275266872697
+HP,Windows 11 ,128.0,7th Gen,16.0,LPDDR5X,1024,SSD,AMD,Dedicated,0,Medium,High Resolution,low,0.0008415660446395902
+HP,Windows 11 ,384.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0006000480038403072
+Lenovo,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0007550933181364866
+Asus,Windows 11 ,192.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0011261906125331653
+HP,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0014767344664251881
+MSI,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0008553757073299118
+Lenovo,Windows 11 ,128.0,6th Gen,16.0,LPDDR5,512,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0010107005919817752
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001494725344218
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0016779606324620845
+Lenovo,Windows 11 ,128.0,7th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0008442654890245487
+HP,Windows 11 ,120.0,12th Gen,16.0,DDR4,1024,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0009001285897985426
+Lenovo,Windows 11 ,120.0,13th Gen,16.0,LPDDR4X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.000792310689699961
+Lenovo,Windows 11 ,192.0,13th Gen,16.0,LPDDR5,1024,SSD,AMD,Dedicated,1,Medium,High Resolution,low,0.0006624920591705236
+Lenovo,Windows 11 ,32.0,7th Gen,8.0,LPDDR5,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.001486138896827665
+Dell,Windows 11 ,120.0,13th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010319507838856916
+Dell,Windows 11 ,72.0,5th Gen,8.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015959242549795905
+MSI,Windows 11 ,384.0,13th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,high,0.0005703462212802513
+Asus,Windows 11 ,160.0,13th Gen,16.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007222302470027445
+Chuwi,Windows 11 ,48.0,12th Gen,12.0,LPDDR4,512,SSD,Intel,Integrated,1,Small,High Resolution,low,0.001158199526191103
+Lenovo,Windows 11 ,72.0,7th Gen,16.0,LPDDR4X,512,SSD,AMD,Dedicated,1,Medium,Full HD,low,0.0010110437081972312
+Lenovo,Windows 11 ,120.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0013574660633484162
+Lenovo,Windows 11 ,280.0,13th Gen,32.0,DDR5,1024,SSD,NVIDIA,Dedicated,0,Medium,High Resolution,low,0.0004705246078961601
+Ultimus,Windows 11 ,8.0,10th Gen,8.0,DDR4,256,SSD,Intel,Integrated,0,Medium,Full HD,low,0.002089817696754113
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.000698999892461555
+Acer,Windows 11 ,96.0,13th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.000761300145808333
+Asus,Windows 11 ,48.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0015432980851671906
+Acer,Windows 11 ,96.0,13th Gen,8.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0007833263393481606
+Asus,Windows 11 ,120.0,12th Gen,16.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0012444720993799862
+HP,Windows 11 ,120.0,13th Gen,16.0,DDR4-,1024,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0008209077747429066
+HP,Windows 11 ,4.0,Intel Celeron,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0017761303525232635
+Asus,Windows 11 ,72.0,5th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009531398928108251
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0009345794392523365
+HP,Windows 11 ,128.0,7th Gen,16.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Large,Standard HD,low,0.0009351863878425769
+Asus,Windows 11 ,128.0,5th Gen,16.0,DDR4,1024,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0006519453207150368
+Gigabyte,Windows 11 ,96.0,12th Gen,16.0,RAM,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,high,0.0008298539975623039
+Acer,Windows 11 ,96.0,12th Gen,16.0,DDR4,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.0009371405852868928
+HP,Windows 11 ,72.0,5th Gen,16.0,DDR4,512,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0012795905310300703
+HP,Windows 11 ,72.0,5th Gen,8.0,DDR4,256,SSD,AMD,Dedicated,0,Medium,Standard HD,low,0.0015643802647412755
+Asus,Chrome ,4.0,Intel Celeron,4.0,LPDDR4X,64,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001876172607879925
+Asus,Chrome ,4.0,Intel Celeron,4.0,LPDDR4X,64,SSD,Intel,Integrated,0,Medium,Full HD,low,0.0020013342228152103
+HP,Windows 11 ,48.0,12th Gen,8.0,DDR4,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.001610624470189319
+Lenovo,Windows 11 ,128.0,7th Gen,16.0,DDR4,512,SSD,AMD,Integrated,0,Medium,Full HD,low,0.0009157247102589784
+Lenovo,Windows 11 ,48.0,13th Gen,8.0,LPDDR4X,512,SSD,Intel,Integrated,1,Medium,Full HD,low,0.0009482922119346885
+Lenovo,Windows 11 ,96.0,12th Gen,16.0,LPDDR5,512,SSD,Intel,Integrated,0,Medium,Standard HD,low,0.0010346611484738748
+HP,Windows 11 ,72.0,7th Gen,8.0,DDR5,512,SSD,NVIDIA,Dedicated,0,Medium,Standard HD,low,0.001118833700627225
