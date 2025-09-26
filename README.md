@@ -1,7 +1,5 @@
 # 🧠 EDA_Laptop: Exploratory Data Analysis on Laptop Market Trends
 
-![Laptop Analysis](https://user-images.githubusercontent.com/MeghOffical/EDA_Laptop/laptop-image.png)
-
 ## 📌 Overview
 
 This project delves into the intricacies of the laptop market by performing comprehensive Exploratory Data Analysis (EDA) on a curated dataset. The goal is to uncover patterns, correlations, and insights that influence laptop pricing and specifications. Key areas of focus include:
